@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='mkdocs-bootstrap-tables-plugin',
-    version='0.1.0',
+    version='0.1.1',
     description='A MkDocs plugin to add bootstrap classes to plan markdown generated tables.',
     long_description='',
     keywords='mkdocs bootstrap css',
-    url='https://github.com/byrnereese/mkdocs-bootstrap-tables-plugin',
-    author='Byrne Reese',
+    url='https://github.com/hirleydayan/mkdocs-bootstrap-tables-plugin',
+    author='Hirley Dayan',
     author_email='byrne@majordojo.com',
     license='MIT',
     python_requires='>=2.7',
